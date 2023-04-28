@@ -21,7 +21,7 @@ My name is Yağmur Akbaba and I'm a senior studying Software Engineering at Izmi
 🎓 Metin Nuran Çakallıklı Anatolian High Scool | Top Student | 97.70
 
 
-## GitHub
+## <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="15"></a>  GitHub
 
 
 ![Yagmur Akbaba](https://github-readme-stats.vercel.app/api?username=YagmurAkbaba&show_icons=true&theme=highcontrast&bg_color=00000000)

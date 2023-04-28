@@ -4,8 +4,12 @@
 
 My name is Yağmur Akbaba and I'm a senior studying Software Engineering at Izmir University of Economics. I have been dedicated to improving my skills and knowledge through my education and internships. In addition, I have actively participated in student clubs to further develop my social skills. Understanding the significance of soft skills, I have undergone diction training and participated in various activities, including mentoring. My involvement in numerous software projects and club activities has allowed me to comprehend the importance of being a team player and has honed my abilities in this regard. Going forward, I am committed to working with the same level of motivation and diligence to reach my full potential.
 
+
 ## Projects
 Will be added soon.
+
+![HaxGIF](https://user-images.githubusercontent.com/81877857/235271147-89a83d37-f99e-4eff-8bc4-5447175a2613.gif)
+
 
 ## 🪧 Experience
 * 🛩️ [Turkish Aerospace Inc.](https://www.tusas.com/en) | Intern | 11.2022-03.2023

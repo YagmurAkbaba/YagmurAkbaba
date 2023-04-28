@@ -33,8 +33,13 @@ My name is Yağmur Akbaba and I'm a senior studying Software Engineering at Izmi
 
 ## 📫 Contact Information
 <!---->
- <a href="https://www.linkedin.com/in/yagmur-akbaba/" target="_blank"><img src="https://media-public.canva.com/pBxG8/MAE0v7pBxG8/1/tl.png" alt="LinkedIn" width="30" height="30"><href></a>
- <a style="bg-color:white" href="https://github.com/YagmurAkbaba"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub logo" width="25" ></a>
+
+ <a style="bg-color:white" href="https://github.com/YagmurAkbaba"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub logo" width="125" ></a>
+
+
+ <a href="https://www.linkedin.com/in/yagmur-akbaba/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40"><href></a> 
+
+   <a href="https://www.youtube.com/@done____" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="LinkedIn" width="40"><href></a> 
  
 <!---->
 

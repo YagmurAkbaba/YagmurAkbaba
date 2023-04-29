@@ -34,7 +34,7 @@ Will be added soon.
 ![Yagmur Akbaba](https://github-readme-stats.vercel.app/api?username=YagmurAkbaba&show_icons=true&theme=chartreuse-dark&bg_color=00000000)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurAkbaba&langs_count=10&show_icons=true&theme=chartreuse-dark&bg_color=00000000&layout=compact&colors=007396,f1e05a,e34c26,563d7c,2b7489,89e051,3572A5)](https://github.com/YagmurAkbaba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurAkbaba&langs_count=10&show_icons=true&theme=chartreuse-dark&bg_color=00000000&layout=compact)](https://github.com/YagmurAkbaba/github-readme-stats)
 
 
 

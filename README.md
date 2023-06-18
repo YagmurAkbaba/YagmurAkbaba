@@ -25,7 +25,7 @@ Will be added soon.
 🖊️ [Izmir University of Economics](https://www.ieu.edu.tr/en) | Software Engineering | 3.51
 
 
-🎓 Metin Nuran Çakallıklı Anatolian High Scool | Top Student | 97.70
+🎓 Metin Nuran Çakallıklı Anatolian High Scool | Rank : 1 | 97.70
 
 
 ## <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="18"></a>  GitHub

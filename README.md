@@ -2,7 +2,7 @@
 
 ## 📜 About
 
-My name is Yağmur Akbaba and I'm a senior studying Software Engineering at Izmir University of Economics. I have been dedicated to improving my skills and knowledge through my education and internships. In addition, I have actively participated in student clubs to further develop my social skills. Understanding the significance of soft skills, I have undergone diction training and participated in various activities, including mentoring. My involvement in numerous software projects and club activities has allowed me to comprehend the importance of being a team player and has honed my abilities in this regard. Going forward, I am committed to working with the same level of motivation and diligence to reach my full potential.
+My name is Yağmur Akbaba and I'm a new graduate who studied Software Engineering at Izmir University of Economics. I have been dedicated to improving my skills and knowledge through my education and internships. In addition, I have actively participated in student clubs to further develop my social skills. Understanding the significance of soft skills, I have undergone diction training and participated in various activities, including mentoring. My involvement in numerous software projects and student branch activities has allowed me to comprehend the importance of being a team player and has honed my abilities in this regard. Going forward, I am committed to working with the same level of motivation and diligence to reach my full potential.
 
 
 ## Projects
